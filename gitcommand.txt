@@ -4,5 +4,5 @@ git init
 git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin https
+git remote add origin https://github.com/gagangarg09/FSD_workshop_3sem2503201000496.git
 git push -u origin main
