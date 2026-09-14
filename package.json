@@ -1,0 +1,27 @@
+{
+  "name": "fsd_workshop_3sem",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/gagangarg09/FSD_workshop_3sem2503201000496#readme",
+  "bugs": {
+    "url": "https://github.com/gagangarg09/FSD_workshop_3sem2503201000496/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gagangarg09/FSD_workshop_3sem2503201000496.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "Day9.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Day9.js"
+  },
+  "dependencies": {
+    "body-parser": "^2.3.0",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {}
+}
